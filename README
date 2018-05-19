@@ -1,8 +1,12 @@
-Nuclei Segmentation U-net
+Nuclei Segmentation 
 written by Dara Rouholiman
 --------------------------
-The network can be trained to perform nuclei segmentation on pathological images of various sizes. 
-Checkout the included Jupyter notebook that is ready to be tested on Google Colab environment. The pathological images can be acquired from https://www.kaggle.com/c/data-science-bowl-2018/data or clone from https://github.com/darar1/datasciencebowl2018.git
+The networks can be trained to perform nuclei segmentation on pathological images of various sizes. 
+There are three different models presented: 
+U-net 
+CNN 
+RCNN 
+Checkout the included Jupyter notebooks that is ready to be tested on Google Colab environment. The pathological images can be acquired from https://www.kaggle.com/c/data-science-bowl-2018/data or clone from https://github.com/darar1/datasciencebowl2018.git
 
 Python: 
 	Python 3.5 
